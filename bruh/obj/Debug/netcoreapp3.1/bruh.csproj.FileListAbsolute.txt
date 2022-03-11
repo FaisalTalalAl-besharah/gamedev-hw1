@@ -1,0 +1,14 @@
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\bin\Debug\netcoreapp3.1\bruh.exe
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\bin\Debug\netcoreapp3.1\bruh.deps.json
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\bin\Debug\netcoreapp3.1\bruh.runtimeconfig.json
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\bin\Debug\netcoreapp3.1\bruh.runtimeconfig.dev.json
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\bin\Debug\netcoreapp3.1\bruh.dll
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\bin\Debug\netcoreapp3.1\bruh.pdb
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\obj\Debug\netcoreapp3.1\bruh.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\obj\Debug\netcoreapp3.1\bruh.AssemblyInfoInputs.cache
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\obj\Debug\netcoreapp3.1\bruh.AssemblyInfo.cs
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\obj\Debug\netcoreapp3.1\bruh.csproj.CoreCompileInputs.cache
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\obj\Debug\netcoreapp3.1\bruh.dll
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\obj\Debug\netcoreapp3.1\bruh.pdb
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\obj\Debug\netcoreapp3.1\bruh.genruntimeconfig.cache
+D:\demo 0\gamedev-c1-cw3 car\this\home work\home work\gamedev-hw1\bruh\obj\Debug\netcoreapp3.1\bruh.csproj.AssemblyReference.cache
